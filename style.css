@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    border: none;
+}
+
+body {
+    height: 100%;
+}
+
+header {
+    border-bottom: 2px solid darkgoldenrod;
+}
+
+.cabecalho {
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    color: darkgoldenrod;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+.jogo-geral {
+    
+}
+
+.cabecalho-jogo {
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.corpo-jogo {
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkgoldenrod;
+    border-top: 2px solid darkgoldenrod;
+}
+
+footer h1 {
+    
+}
